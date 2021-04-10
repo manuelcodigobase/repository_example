@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 // This is a main function that init de app.
 void main() {
+  // This is a runApp function that init the MyApp class to attach to the screen. This line, was make in the online repository.
   runApp(MyApp());
 }
 
