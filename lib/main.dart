@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 
-// this is a line that was write for rewrite older branchs.
+
 void main() {
+  // This is a runApp function that init the MyApp class to attach to the screen. This line, was make in the online repository.
   runApp(MyApp());
 }
 
